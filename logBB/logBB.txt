@@ -1,0 +1,20 @@
+DelG:
+1. Donepezil DelG = -10.26 kcal/mol (Ki = 0.03 microM; pKi = 7.5)
+2. Mathylene DelG (cation) logBB = -6.97 (Ki = 7.45 microM; pKi = 5.13)
+3. Memantine DelG = -7.77 (Ki = 1.92 microM; pKi = 5.72)
+
+Donepezil logBB(exp) = 0.89 - reference
+ 
+logBB(passive):
+
+1. Donepezil logBB = 0.37
+2. Mathylene Blue (cation) logBB = 0.44
+3. Memantine logBB = 0.24
+
+logBB(active):
+
+1. Donepezil logBB = (0.37*7.5)/n = 0.89
+2. Mathylene Blue (cation) logBB = (0.44*5.13)/n = 0.72
+3. Memantine logBB = (0.24*5.72)/n = 0.44
+ 
+n - fitness factor (n = 3.12 for donepezil)
